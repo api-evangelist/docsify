@@ -26,14 +26,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docsify.js.org/#/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docsify.js.org/#/quickstart
 common:
   - type: Website
     url: https://docsify.js.org
   - type: Documentation
     url: https://docsify.js.org/#/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/docsifyjs
 maintainers:
   - FN: Kin Lane
