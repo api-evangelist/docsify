@@ -29,6 +29,8 @@ apis:
       - type: GettingStarted
         url: https://docsify.js.org/#/quickstart
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/docsify
   - type: Website
     url: https://docsify.js.org
   - type: Documentation
