@@ -39,7 +39,7 @@ common:
     url: https://github.com/docsifyjs
   - name: Agent Skills
     url: https://github.com/docsifyjs/docsify-skill
-    type: AgentSkill
+    type: AgentSkills
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
