@@ -29,6 +29,8 @@ apis:
       - type: GettingStarted
         url: https://docsify.js.org/#/quickstart
 common:
+  - type: DomainSecurity
+    url: security/docsify-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/docsify
   - type: Website
